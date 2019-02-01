@@ -1,7 +1,9 @@
-# cs-books-and-resources-approved-by-reddit
-books and resources loved by r/learnprogramming community for going the extra mile of curiosity in the CS world. Compiled by me, a lurker who kept track
+# reddit-chooses-computer-science-books
+and other resources.
 
-Websites and Online resources:
+These are books and resources loved by r/learnprogramming community for going the extra mile of curiosity in the CS world. Compiled by me, a lurker who kept track.
+
+Websites and online resources:
 
 https://craftinginterpreters.com/ detailed walk-through of general compilation and interpretation techniques by actually building two interpreters in Java and C
 
