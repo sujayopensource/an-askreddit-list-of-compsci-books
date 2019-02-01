@@ -22,3 +22,5 @@ https://www.nand2tetris.org/ along with http://nandgame.com/ explains everything
 https://www.coursera.org/learn/build-a-computer teaches you to build a modern computer from first principles
 
 https://skilldrick.github.io/easy6502/ so, 6502 is what old consoles ran on. After you assemble you can click the disassemble or hexdump button to see the difference between `lda #$01` and `lda $01`!
+
+http://home.netcom.com/~tjensen/ptr/pointers.htm introduces pointers to beginning programmers in the C programming language
