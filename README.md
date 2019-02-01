@@ -5,6 +5,8 @@ These are books and resources loved by r/learnprogramming community for going th
 
 Websites and online resources:
 
+https://people.eecs.berkeley.edu/~luca/cs103-14/index.html#notes amazing detailed notes for math foundations of computing
+
 https://craftinginterpreters.com/ detailed walk-through of general compilation and interpretation techniques by actually building two interpreters in Java and C
 
 https://godbolt.org/ web tool to help you type code and see it translate to assembly
