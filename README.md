@@ -1,6 +1,6 @@
 ### First, the biblicals:
 
-shell script to download all volumes of Lord Knuth's Art of Computer Programming: (you can copy from the next line at once, since all the styled texts will recognized as comments in the shell)
+shell script to download all volumes of Lord Knuth's Art of Computer Programming: (you can copy from the shebang till the end of the script, since all the styled texts will recognized as comments in the shell)
 
 #!/bin/sh
 #### Volume 1 - Fundamental Algorithms, 3rd Edition
