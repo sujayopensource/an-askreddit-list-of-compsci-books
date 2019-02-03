@@ -1,4 +1,4 @@
-# reddit-chooses-computer-science-books
+# an-askreddit-list-of-compsci-books
 and other resources.
 
 These are books and resources loved by r/learnprogramming community for going the extra mile of curiosity in the CS world. Compiled by me, a lurker who kept track.
