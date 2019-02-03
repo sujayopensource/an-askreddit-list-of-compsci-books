@@ -21,9 +21,10 @@ Websites and online resources:
 
 [this](https://www.nand2tetris.org/) along with [this](http://nandgame.com/) explains everything from the logic gate on up to a functioning system
 
-[teaches you to build a modern computer from first principles](https://www.coursera.org/learn/build-a-computer)
+[this teaches you to build a modern computer from first principles.](https://www.coursera.org/learn/build-a-computer)
 
 http://home.netcom.com/~tjensen/ptr/pointers.htm [introduces pointers to beginning programmers in the C programming language]
+
  [And this.](https://skilldrick.github.io/easy6502/) 6502 is what old consoles ran on. After you assemble you can click the disassemble or hexdump button to see the difference between `lda #$01` and `lda $01`!
 
 
